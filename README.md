@@ -1,72 +1,96 @@
-Hi there, I'm Roberta Boateng 👋
+<p align="center">
+  <img src="#" alt="Profile Picture" width="150" />
+</p>
 
-About Me
+<h1 align="center">Hi, I'm Roberta Boateng 👋</h1>
+<h2 align="center">Junior Full Stack Developer | Python | Django | React | JavaScript | AWS & Azure Certified</h2>
 
+---
+
+<div align="center">
+<a href="https://github.com/Roberta240701"><h2>View My GitHub Portfolio</h2></a>
+</div>
+
+---
+
+<h2 align="center">About Me</h2>
+<p align="center">
 I'm a Junior Full Stack Developer with a background in law and financial services.
 I build web applications using Python, Django, React, and JavaScript — with a
 particular interest in Legal Tech, FinTech, and compliance-driven applications.
-
-- LLM Student at BPP University (expected 2026)
-- AWS Certified| Microsoft Azure Certified
-- Working in an FCA-regulated environment at Santander UK
-- Currently building: Fraud Transaction Risk Analysis Dashboard
-- Currently learning: Full Stack Development | Data Analysis
-- Interested in: Legal Tech | FinTech | RegTech | Compliance Tools
+I bring a unique perspective to development, combining technical skills with
+regulatory knowledge from working in an FCA-regulated environment.
+</p>
 
 ---
 
-Tech Stack
+<h2 align="center">Skills & Tools</h2>
 
-**Frontend**
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
 
-**Backend**
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Cloud & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
-**Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-**Data & Analysis**
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-
----
-
-Featured Projects
-
-[Fraud Transaction Risk Analysis Dashboard](https://github.com/Roberta240701/Fraud-transaction-risk-dashboard)
-An end-to-end fraud risk analysis project built on 100,000 real transaction records.
-Analyses fraud patterns by transaction type, amount band, and risk exposure.
-Built using Excel (pivot tables, charts) and Power BI (interactive dashboard).
-> **Tools:** Excel · Power BI · GitHub · Data Analysis
-
----
-
-GitHub Stats
-
-![Roberta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roberta240701&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberta240701&layout=compact&theme=dark&hide_border=true)
+### Data & Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
+</p>
 
 ---
 
-Get In Touch
+## GitHub Stats
+<p align="center">
+  <img src="https://ghchart.rshah.org/Roberta240701" alt="GitHub Contribution Chart" />
+</p>
 
-- LinkedIn: [linkedin.com/in/robertaboateng](https://linkedin.com/in/robertaboateng)
-- Email: boatengroberta0@gmail.com
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roberta240701&theme=default" alt="GitHub Streak" width="40%">
+</div>
 
 ---
 
-*"Building practical solutions at the intersection of law, technology, and finance."*
+## Currently Working On
+<ul>
+  <li>🔍 Fraud Transaction Risk Analysis Dashboard (Excel + Power BI)</li>
+  <li>💻 Full Stack Web Application (Django + React)</li>
+  <li>📚 LLM with SQE at BPP University</li>
+</ul>
+
+---
+
+## Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/robertaboateng" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:boatengroberta0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center"><strong>Thanks for visiting!</strong></p>
